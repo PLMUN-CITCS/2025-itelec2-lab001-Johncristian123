@@ -1,7 +1,6 @@
+hello.py
+
 print("Hello world!")
-
-print("Name: [Johnchristian Suriaga ]")
-
-print("Course: [Bsit-3p]")
-
-print("Interests in programming: [Python)
+print("Name: [Suriaga]")
+print("Course: [BSIT]")
+print("Interests in programming: [Python]")
