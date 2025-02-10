@@ -1,0 +1,7 @@
+intro.txt
+
+Name: [Johnchristian Suriaga]
+
+Course: [Bsit]
+
+Interests in programming: [Python]
