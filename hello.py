@@ -2,7 +2,7 @@ hello.py
 
 print("Hello world!")
 
-print("Name: [Suriaga]")
+print("Name: [Johnchristian Suriaga]")
 
 print("Course: [BSIT]")
 
